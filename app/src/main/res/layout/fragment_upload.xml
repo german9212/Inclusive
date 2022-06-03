@@ -35,7 +35,7 @@
 
     <Button
         android:id="@+id/buttonSendImages"
-        android:layout_width="116dp"
+        android:layout_width="230dp"
         android:layout_height="56dp"
         android:layout_gravity="center"
         android:layout_margin="10dp"
